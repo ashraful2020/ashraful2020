@@ -10,14 +10,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ashraful.web.app)
-<!-- [![website](./img/globe-dark.svg)](https://ashraful.web.app) -->
+[![website](./img/globe-light.svg)](https://ashraful.web.app)<!-- [![website](./img/globe-dark.svg)](https://ashraful.web.app) -->
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ashrafulislam2020)
-<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/ashrafulislam2020) -->
+[![website](./img/twitter-light.svg)](https://twitter.com/ashrafulislam2020)<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/ashrafulislam2020) -->
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashraful2020)
-<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashraful2020) -->
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashraful2020)<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashraful2020) -->
 &nbsp;&nbsp; 
 ### Languages and Tools:
  
