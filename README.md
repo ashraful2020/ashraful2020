@@ -6,18 +6,18 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play Cricket
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 😻 Check out the NFT collection I created: [CodeCats](https://ashraful.web.app)
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://ashraful.web.app)
-[![website](./img/globe-dark.svg)](https://ashraful.web.app)
+<!-- [![website](./img/globe-dark.svg)](https://ashraful.web.app) -->
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ashrafulislam2020)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ashrafulislam2020)
+<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/ashrafulislam2020) -->
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashraful2020)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashraful2020)
+<!-- [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashraful2020) -->
 &nbsp;&nbsp; 
 ### Languages and Tools:
  
